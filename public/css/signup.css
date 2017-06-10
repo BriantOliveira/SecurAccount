@@ -1,0 +1,26 @@
+body {
+    background-color: #222930;
+    margin: 0 auto;
+    padding: 0px;
+    text-align: center;
+    width: 100%;
+    overflow: hidden;
+    height: 100%;
+ }
+
+ .col-md-8.col-md-offset-2 {
+	margin-top: 81px;
+}
+h1, label {
+	color: white;
+}
+
+.clearfooter {
+height: 0px;
+clear: both;
+} 
+
+.btn-default {
+	margin-right: -667px;
+
+}
