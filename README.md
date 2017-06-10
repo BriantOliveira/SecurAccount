@@ -28,12 +28,14 @@ Table: Customer
 ID
 Name
 Password
+
 Table: Financial Institution
 ID
 Institution Name
 Account or Card Number
 Account Type (checking/credit/credit union, etc.)
 Payment Date
+
 Table: Payee Account
 ID
 Bank Name/Creditor
